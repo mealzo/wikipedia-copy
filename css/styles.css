@@ -1,0 +1,23 @@
+.panel-body img {
+  float: left;
+}
+/* .panel-body{
+  border: 1px solid #cef2df;
+} */
+.alert {
+  margin: 10px;
+  padding: 5px;
+  border: solid 1px black;
+}
+.panel-heading{
+  padding: 0.2em 0.4em;
+}
+
+.green1 {
+  background-color: #cef2e0;
+  border: 1px solid #a3bfb1;
+}
+
+.green2 {
+  background-color: #f4fff6;
+}
